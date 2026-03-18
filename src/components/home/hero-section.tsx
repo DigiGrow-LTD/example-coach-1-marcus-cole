@@ -19,7 +19,6 @@ export function HeroSection() {
         priority
         className="object-cover"
         sizes="100vw"
-        quality={85}
       />
 
       {/* Gradient overlay */}
